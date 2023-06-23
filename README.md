@@ -1,6 +1,6 @@
 # HERO - The AI Powerd Voice Assistant
 
-HERO - The AI Powered Voice Assistant is a Python-based project that allows you to ask daily life queries that uses speech recognition and synthesis, respectively. Additionally, it leverages the `bardapi` module, developed by [dsdanielpark](https://github.com/dsdanielpark), for retrieving answers using Google BARD AI to user queries.
+HERO - The AI Powered Voice Assistant is a Python-based project that allows you to ask daily life queries that uses speech recognition and synthesis, respectively. Additionally, it leverages the [bardapi](https://github.com/dsdanielpark/Bard-API) module, developed by [dsdanielpark](https://github.com/dsdanielpark), for retrieving answers using Google BARD AI to user queries.
 
 ## Prerequisites
 
