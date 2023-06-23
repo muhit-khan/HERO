@@ -20,8 +20,8 @@ Make sure you have a working microphone connected to your computer for voice inp
 ## Installation
 
 1. Clone the repository:
-    `git clone https://github.com/your-username/hero-voice-assistant.git`
-    `cd hero-voice-assistant`
+    `git clone https://github.com/muhit-khan/HERO.git`
+    `cd HERO`
 
 2. Install the dependencies:
     `pip install -r requirements.txt`
