@@ -49,5 +49,17 @@ To exit the voice assistant, say "exit" or wait for the termination command prom
 * The bardapi module used in this project is developed by [dsdanielpark](https://gitgub.com/dsdanielpark). 
 * [Google BARD AI](https://bard.google.com)
 
+## Contribution
+Contributions to the HERO Voice Assistant project are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository. Let's make HERO even better together!
+If you would like to contribute, please follow these steps:
+- Fork the repository on GitHub.
+- Create a new branch with a descriptive name for your feature or improvement.
+- Make your changes to the codebase.
+- Write tests, if applicable, to ensure the correctness of your changes.
+- Commit your changes and push them to your forked repository.
+- Submit a pull request, providing a detailed description of your changes and the rationale behind them.
+
+[NB: Please note that all contributions are subject to review and may require some modifications before being merged into the main project.]
+
 ## License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
